@@ -1,4 +1,7 @@
 
+# y = 0 (x1 * w1 + w2 + x2 * w2) <= theta
+# y = 1 (x1 * w1 + w2 + x2 * w2) > theta
+#
 # x1,x2 : Input
 # w1,w2 : Weight
 # theta : threshold
